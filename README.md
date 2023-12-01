@@ -26,5 +26,5 @@
 ##### - Fallire è normale, soprattutto al primo esame, l'importante è imparare da ciò che si sbaglia
 ##### - L'esame è considerato superato con 30/100
 ##### - Se sbagli un esercizio non puoi andare al prossimo
-##### - Per effettuare il login inserire come username exam, come password exam. Successivamente in terminale digitare examshell premere invio e accedere con le proprie credenziali intra
+##### - Per effettuare il login inserire come username `exam`, come password `exam`. Successivamente in terminale digitare `examshell` premere invio e accedere con le proprie credenziali intra
 ##### - Norminette non verrà usata durante l'esame, quindi potrai scrivere funzioni di lunghezza maggiore a 25 righe e non seguire le regole di formattazione
