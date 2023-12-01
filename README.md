@@ -14,7 +14,7 @@
 
 ### Qualche info tecnica per partire:
 ##### - La prima settimana non investire il tuo tempo solo su shell, completare C00 e C01 (cicli while e puntatori) ti servirà per il primo esame
-##### - Compila sempre con le flag usando cc  -Wall -Wextra -Werror nomefile
+##### - Compila sempre con le flag usando `cc  -Wall -Wextra -Werror nomefile`
 ##### - I cicli for, i ternari, il printf e la maggior parte delle funzioni delle librerie di C sono vietate (molte le scriverai tu durante la piscine) 
 ##### - Leggi bene la Norma, disponibile nell'Intra per conoscere le regole di formattazione del codice vigenti in 42 (ad esempio non scrivere funzioni più lunghe di 25 righe)
 ##### - Completare un modulo al 50% è abbastanza per validarlo, ma ti consiglio di aggirarti almeno sul 75/80% se vuoi salire di livello più velocemente
