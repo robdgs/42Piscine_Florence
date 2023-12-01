@@ -1,7 +1,7 @@
 # 42 Firenze Piscine
 ## The hitchhiker's guide to the Piscine
 ### Informazioni generali:
-##### - Read the manual, il comando da terminale man sarà importantissimo per accedere a qualsiasi informazione di cui tu possa avere bisogno durante gli esami (dove internet e appunti sono vietati) e non
+##### - Read the manual, il comando da terminale `man` sarà importantissimo per accedere a qualsiasi informazione di cui tu possa avere bisogno durante gli esami (dove internet e appunti sono vietati) e non
 ##### - Non avere fretta di completare i moduli, meglio spendere più tempo e capire a pieno che rushare e capire poco
 ##### - Non è una gara, rispetta il tuo ritmo
 ##### - Collabora!! I tuoi colleghi saranno i tuoi migliori alleati e supporter
