@@ -5,7 +5,7 @@
 ##### - Non avere fretta di completare i moduli, meglio spendere più tempo e capire a pieno che rushare e capire poco
 ##### - Non è una gara, rispetta il tuo ritmo
 ##### - Collabora!! I tuoi colleghi saranno i tuoi migliori alleati e supporter
-##### - Sleep well, eat healty and stay hydrated
+##### - Sleep well, eat healthy and stay hydrated
 ##### - Partecipa ai rush, sono progetti importanti per conoscere meglio i tuoi colleghi ed avere delle spiegazioni bonus dallo staff quando vi correggeranno il progetto 
 ##### - Fai tante domande, che tu abbia davanti un membro dello staff o un corsista non vergognarti 
 ##### - 42 è condivisione, se sai spiega, se non sai chiedi
