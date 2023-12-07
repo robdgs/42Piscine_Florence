@@ -21,7 +21,8 @@ int		ft_atoi(char *str)
 	}
 	while (str[i] >= '0' && str[i] <= '9')
 	{
-		numero = numero * 10 + (str[i] - '0');
+		numero *=10;
+  numero += str[i] - 48;
 		i++;
 	}
 	if (sign == 1)
