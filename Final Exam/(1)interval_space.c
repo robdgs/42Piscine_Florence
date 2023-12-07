@@ -23,7 +23,7 @@ void	ft_print_intervals(char *str)
 
 int	main(void)
 {
-	char	*c = "It's a wonderful world porcoddio";
+	char	*c = "It's a wonderful world";
 	
 	ft_print_intervals(c);
 	return (0);
