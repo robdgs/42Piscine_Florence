@@ -1,2 +1,2 @@
 #!/bin/bash
-ifconfig | grep -w ether | cut -d " " -f 2
+ifconfig | grep 'ether ' | cut -b 15-31 
